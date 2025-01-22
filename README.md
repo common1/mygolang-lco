@@ -18,3 +18,12 @@ https://www.youtube.com/watch?v=QEZlivtFOZk&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOn
 ## 05 Lexer in golang and Types
 https://www.youtube.com/watch?v=elYPAeX9h1E&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=5
 
+## 06 Variables, types and constants
+https://www.youtube.com/watch?v=9fYqg6uo-UU&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=6
+
+go mod init github.com/common1/mygolang-lco
+
+go run main.go
+
+Current: 6.13:34
+
