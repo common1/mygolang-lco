@@ -12,3 +12,6 @@ go mod init github.com/common1/mygolang-lco
 
 go run main.go
 
+## 04 GOPATH and reading go docs
+https://www.youtube.com/watch?v=QEZlivtFOZk&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=4
+
