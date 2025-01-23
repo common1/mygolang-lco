@@ -38,3 +38,9 @@ go mod init userinput
 
 go run main.go
 
+## 08 Conversions in golang
+https://www.youtube.com/watch?v=3j43y-PFJPI&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=8
+
+go mod init conversion
+
+go run main.go
