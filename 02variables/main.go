@@ -4,6 +4,8 @@ import (
 	"fmt"
 )
 
+const LoginToken string = "asdfsdfghdhj" // public
+
 func main() {
 	var username string = "Harrie"
 	fmt.Println(username)
@@ -33,4 +35,8 @@ func main() {
 	// no var style
 	numberOfUser := 300000
 	fmt.Println(numberOfUser)
+
+	fmt.Println(LoginToken)
+	fmt.Printf("Variable is of type: %T \n", LoginToken)
+
 }

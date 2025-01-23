@@ -25,5 +25,3 @@ go mod init github.com/common1/mygolang-lco
 
 go run main.go
 
-Current: 6.13:34
-
