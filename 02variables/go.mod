@@ -1,3 +1,3 @@
-module github.com/common1/mygolang-lco
+module variables
 
-go 1.18
+go 1.23.1

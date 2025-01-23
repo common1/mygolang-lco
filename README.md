@@ -1,14 +1,20 @@
 # mygolang-lco
 
+## Install
+
+// https://ubuntuhandbook.org/index.php/2024/02/how-to-install-go-golang-1-22-in-ubuntu-22-04/
+
 ## See also
 
 Let's go with golang
 https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa
 
+https://pkg.go.dev/
+
 ## 03 Golang installation and hello world
 https://www.youtube.com/watch?v=62qGe9yhiJI&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=3
 
-go mod init github.com/common1/mygolang-lco
+go mod init hello
 
 go run main.go
 
@@ -21,7 +27,14 @@ https://www.youtube.com/watch?v=elYPAeX9h1E&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOn
 ## 06 Variables, types and constants
 https://www.youtube.com/watch?v=9fYqg6uo-UU&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=6
 
-go mod init github.com/common1/mygolang-lco
+go mod init variables
+
+go run main.go
+
+## 07 Comma ok syntax and packages in golang
+https://www.youtube.com/watch?v=zYIZtbyUIDY&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=7
+
+go mod init userinput
 
 go run main.go
 
