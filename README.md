@@ -52,3 +52,12 @@ go mod init mytime
 
 go run main.go
 
+## 10 Build for windows, linux and mac
+https://www.youtube.com/watch?v=9vxsO5vMTAw&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=10
+
+go env
+
+GOOS="linux" go build
+
+go build
+
