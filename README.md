@@ -44,3 +44,11 @@ https://www.youtube.com/watch?v=3j43y-PFJPI&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOn
 go mod init conversion
 
 go run main.go
+
+## 09 Handling time in golang
+https://www.youtube.com/watch?v=xsAz24z4Hdg&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=9
+
+go mod init mytime
+
+go run main.go
+
