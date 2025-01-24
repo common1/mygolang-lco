@@ -97,3 +97,9 @@ go mod init mymaps
 
 go run main.go
 
+## 17 Structs in golang
+https://www.youtube.com/watch?v=NMTN543WVQY&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=17
+
+go mod init mystructs
+
+go run main.go
