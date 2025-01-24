@@ -90,3 +90,10 @@ https://www.youtube.com/watch?v=931nR5TGCAk&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOn
 
 ...
 
+## 16 Maps in golang
+https://www.youtube.com/watch?v=_0R6H1m9o78&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=16
+
+go mod init mymaps
+
+go run main.go
+
