@@ -85,3 +85,8 @@ go mod init myslices
 
 go run main.go
 
+## 15 How to remove a value from slice based on index in golang
+https://www.youtube.com/watch?v=931nR5TGCAk&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=15
+
+...
+
