@@ -70,3 +70,11 @@ https://www.youtube.com/watch?v=-BFJ0dZyxHg&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOn
 go mod init mypointers
 
 go run main.go
+
+## 13 Array in golang
+https://www.youtube.com/watch?v=JoUSa8jtadE&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=13
+
+go mod init myarray
+
+go run main.go
+
