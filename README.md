@@ -61,3 +61,6 @@ GOOS="linux" go build
 
 go build
 
+## 11 Memory management in golang
+https://www.youtube.com/watch?v=G1SP9uDJD0g&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=11
+
