@@ -78,3 +78,10 @@ go mod init myarray
 
 go run main.go
 
+## 14 Slices in golang
+https://www.youtube.com/watch?v=k7hVj8QL9Co&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=14
+
+go mod init myslices
+
+go run main.go
+
