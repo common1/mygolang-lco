@@ -132,3 +132,10 @@ go mod init functions
 
 go run main.go
 
+## 22 Methods in golang
+https://www.youtube.com/watch?v=GhYIKwMxz_Y&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=22
+
+go mod init methods
+
+go run main.go
+
