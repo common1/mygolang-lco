@@ -103,3 +103,10 @@ https://www.youtube.com/watch?v=NMTN543WVQY&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOn
 go mod init mystructs
 
 go run main.go
+
+## 18 If else in golang
+https://www.youtube.com/watch?v=f_xNeRurjZY&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=18
+
+go mod init ifelse
+
+go run main.go
