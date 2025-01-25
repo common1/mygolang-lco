@@ -124,3 +124,11 @@ https://www.youtube.com/watch?v=ZWBA3l818y0&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOn
 go mod init loops
 
 go run main.go
+
+## 21 Functions in golang
+https://www.youtube.com/watch?v=rcUST3QvVOQ&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=21
+
+go mod init functions
+
+go run main.go
+
