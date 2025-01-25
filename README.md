@@ -110,3 +110,11 @@ https://www.youtube.com/watch?v=f_xNeRurjZY&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOn
 go mod init ifelse
 
 go run main.go
+
+## 19 Switch case in golang and online playground
+https://www.youtube.com/watch?v=Up4lTPhJBvs&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=19
+
+go mod init switchcase
+
+go run main.go
+
