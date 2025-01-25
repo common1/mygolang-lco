@@ -118,3 +118,9 @@ go mod init switchcase
 
 go run main.go
 
+## 20 Loop break continue and goto in golang
+https://www.youtube.com/watch?v=ZWBA3l818y0&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=20
+
+go mod init loops
+
+go run main.go
