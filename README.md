@@ -139,3 +139,9 @@ go mod init methods
 
 go run main.go
 
+## 23 Defer in golang
+https://www.youtube.com/watch?v=jiy584-vv38&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=23
+
+go mod init defer
+
+go run main.go
