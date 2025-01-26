@@ -187,3 +187,8 @@ go mod init webverbs
 
 go run main.go
 
+## 29 How to make POST request with JSON data in golang
+https://www.youtube.com/watch?v=h5NeKZuzUoc&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=29
+
+---
+

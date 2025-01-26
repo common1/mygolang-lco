@@ -9,7 +9,8 @@ import (
 
 func main() {
 	fmt.Println("Welcome to web verb video - LCO")
-	PeformGetRequest()
+	// PeformGetRequest()
+	PerformPostJsonRequest()
 }
 
 func PeformGetRequest() {
@@ -33,6 +34,30 @@ func PeformGetRequest() {
 
 	fmt.Println("Bytecount is: ", byteCount)
 	fmt.Println(responseString.String())
+}
+
+func PerformPostJsonRequest() {
+	const myurl = "http://localhost:8000/post"
+
+	// fake json payload
+
+	requestBody := strings.NewReader(`
+		{
+			"coursename": "Let's go with golang",
+			"price": 0,
+			"platform": "learnCodeOnline.in"
+		}
+	`)
+
+	response, err := http.Post(myurl, "application/json", requestBody)
+	checkNilErr(err)
+
+	defer response.Body.Close()
+
+	content, err := io.ReadAll(response.Body)
+	checkNilErr(err)
+
+	fmt.Println(string(content))
 }
 
 func checkNilErr(err error) {
