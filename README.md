@@ -153,3 +153,13 @@ go mod init files
 
 go run main.go
 
+## 25 Handling web request in golang
+https://www.youtube.com/watch?v=ru53LpdVHn4&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=25
+
+https://pkg.go.dev/net/http
+
+https://github.com/hiteshchoudhary/lcodev
+
+go mod init lcorequest
+
+go run main.go
