@@ -196,3 +196,12 @@ https://www.youtube.com/watch?v=h5NeKZuzUoc&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOn
 https://www.youtube.com/watch?v=U_LjyX4iDbU&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=30
 
 ---
+
+## 31 How to create JSON data in golang
+https://www.youtube.com/watch?v=SZ5xZ9OTeEI&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=31
+
+go mod init myjson
+
+go run main.go
+
+3:18
