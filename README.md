@@ -163,3 +163,10 @@ https://github.com/hiteshchoudhary/lcodev
 go mod init lcorequest
 
 go run main.go
+
+## 26 Handling URL in golang
+https://www.youtube.com/watch?v=cl7_ouTMFh0&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=26
+
+go mod init urls
+
+go run main.go
