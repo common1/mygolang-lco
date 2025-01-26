@@ -11,6 +11,8 @@ https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa
 
 https://pkg.go.dev/
 
+https://github.com/hiteshchoudhary/golang
+
 ## 03 Golang installation and hello world
 https://www.youtube.com/watch?v=62qGe9yhiJI&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=3
 
@@ -170,3 +172,11 @@ https://www.youtube.com/watch?v=cl7_ouTMFh0&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOn
 go mod init urls
 
 go run main.go
+
+## 27 Creating server for golang frontend
+https://www.youtube.com/watch?v=xh79JXJy0yY&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=27
+
+https://github.com/hiteshchoudhary/golang
+
+/home/ubuntuuser/Projects/learning/HiteshChoudhary/golang/lcowebserver
+
