@@ -180,3 +180,10 @@ https://github.com/hiteshchoudhary/golang
 
 /home/ubuntuuser/Projects/learning/HiteshChoudhary/golang/lcowebserver
 
+## 28 How to make GET request in golang
+https://www.youtube.com/watch?v=V-sxFQ0fWlw&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=28
+
+go mod init webverbs
+
+go run main.go
+
