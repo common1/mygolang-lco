@@ -145,3 +145,11 @@ https://www.youtube.com/watch?v=jiy584-vv38&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOn
 go mod init defer
 
 go run main.go
+
+## 24 Working with files in golang
+https://www.youtube.com/watch?v=Mdg3tlGUXrE&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=24
+
+go mod init files
+
+go run main.go
+
