@@ -180,6 +180,8 @@ https://github.com/hiteshchoudhary/golang
 
 /home/ubuntuuser/Projects/learning/HiteshChoudhary/golang/lcowebserver
 
+npm install
+
 ## 28 How to make GET request in golang
 https://www.youtube.com/watch?v=V-sxFQ0fWlw&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=28
 
@@ -204,4 +206,3 @@ go mod init myjson
 
 go run main.go
 
-3:18

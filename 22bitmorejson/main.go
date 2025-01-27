@@ -1,15 +1,41 @@
 package main
 
-import "fmt"
+import (
+	"encoding/json"
+	"fmt"
+)
 
 type course struct {
-	Name     string
+	Name     string `json:"coursename"`
 	Price    int
-	Platform string
-	Password string
-	Tags     []string
+	Platform string   `json:"website"`
+	Password string   `json:"-"`
+	Tags     []string `json:"tags,omitempty"`
 }
 
 func main() {
 	fmt.Println("Welcome to JSON video")
+	EncodeJson()
+}
+
+func EncodeJson() {
+
+	lcoCourses := []course{
+		{"ReactJS Bootcamp", 299, "LearnCodeOnline.in", "abc123", []string{"web-dev", "js"}},
+		{"MERN Bootcamp", 299, "LearnCodeOnline.in", "bcd123", []string{"full-stack", "js"}},
+		{"Angular Bootcamp", 299, "LearnCodeOnline.in", "hit123", nil},
+	}
+
+	// package this data as JSON data
+
+	finalJson, err := json.MarshalIndent(lcoCourses, "", "\t")
+	checkNilErr(err)
+
+	fmt.Printf("%s\n", finalJson)
+}
+
+func checkNilErr(err error) {
+	if err != nil {
+		panic(err)
+	}
 }
