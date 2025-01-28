@@ -206,3 +206,8 @@ go mod init myjson
 
 go run main.go
 
+## 32 How to consume JSON data in golang
+https://www.youtube.com/watch?v=a96veXdifys&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=32
+
+---
+
