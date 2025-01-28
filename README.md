@@ -211,3 +211,14 @@ https://www.youtube.com/watch?v=a96veXdifys&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOn
 
 ---
 
+## 33 A long video on MOD in golang
+https://www.youtube.com/watch?v=O8uUGEobo-Q&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=33
+
+go run main.go
+
+go mod init github.com/common1/mymodules
+
+go get -u github.com/gorilla/mux
+
+Current: 11:56
+
