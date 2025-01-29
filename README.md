@@ -271,3 +271,8 @@ https://www.youtube.com/watch?v=TQpB_QSgmXU&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOn
 
 ...
 
+## 39 Delete a course controller in golang
+https://www.youtube.com/watch?v=b1nJBaCzkHI&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=39
+
+...
+

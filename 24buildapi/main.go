@@ -117,3 +117,20 @@ func updateOneCourse(w http.ResponseWriter, r *http.Request) {
 	}
 	// TODO: send a response when id is not found
 }
+
+func deleteOneCourse(w http.ResponseWriter, r *http.Request) {
+	fmt.Println("Update one course")
+	w.Header().Set("Content_Type", "application/json")
+
+	// grab id from request
+	params := mux.Vars(r)
+
+	// loop, id, remove (index + 1
+
+	for index, course := range courses {
+		if course.CourseId == params["id"] {
+			courses = append(courses[:index], courses[index+1:]...)
+			break
+		}
+	}
+}
