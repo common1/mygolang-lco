@@ -1,4 +1,3 @@
-
 module github.com/common1/mymodules
 
 go 1.23.1

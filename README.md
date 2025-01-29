@@ -220,5 +220,6 @@ go mod init github.com/common1/mymodules
 
 go get -u github.com/gorilla/mux
 
-Current: 11:56
+go build .
 
+Current: 17:18
