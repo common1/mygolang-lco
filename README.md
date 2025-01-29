@@ -243,3 +243,11 @@ go mod edit -module 1.16
 go mod vendor
 
 go run -mod=vendor main.go
+
+## 34 Building API in golang - Models
+https://www.youtube.com/watch?v=TrouRtr5xWE&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=34
+
+go mod init github.com/common1/buildapi
+
+go get -u github.com/gorilla/mux
+
