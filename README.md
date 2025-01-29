@@ -261,3 +261,8 @@ https://www.youtube.com/watch?v=1J1sgKriM-o&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOn
 
 ---
 
+## 37 Add a course controller in golang
+https://www.youtube.com/watch?v=vMpBUkIMLzY&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=37
+
+...
+
