@@ -254,3 +254,10 @@ go get -u github.com/gorilla/mux
 ## 35 Sending a API json response for all courses in golang
 https://www.youtube.com/watch?v=V3S3hKrIdQo&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=35
 
+---
+
+## 36 Get one course based on request id in golang
+https://www.youtube.com/watch?v=1J1sgKriM-o&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=36
+
+---
+
