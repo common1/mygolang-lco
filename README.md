@@ -251,3 +251,6 @@ go mod init github.com/common1/buildapi
 
 go get -u github.com/gorilla/mux
 
+## 35 Sending a API json response for all courses in golang
+https://www.youtube.com/watch?v=V3S3hKrIdQo&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=35
+
