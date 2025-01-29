@@ -222,4 +222,24 @@ go get -u github.com/gorilla/mux
 
 go build .
 
-Current: 17:18
+go mod tidy
+
+go mod verify
+
+go list all
+
+go list -m all
+
+go list -m -versions github.com/gorilla/mux
+
+go mod why github.com/gorilla/mux
+
+go mod graph
+
+go mod edit -go 1.16
+
+go mod edit -module 1.16
+
+go mod vendor
+
+go run -mod=vendor main.go
