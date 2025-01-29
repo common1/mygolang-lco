@@ -266,3 +266,8 @@ https://www.youtube.com/watch?v=vMpBUkIMLzY&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOn
 
 ...
 
+## 38 Update a course controller in golang
+https://www.youtube.com/watch?v=TQpB_QSgmXU&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=38
+
+...
+
