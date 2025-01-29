@@ -276,3 +276,10 @@ https://www.youtube.com/watch?v=b1nJBaCzkHI&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOn
 
 ...
 
+## 40 Handling routes and testing routes in golang
+https://www.youtube.com/watch?v=NedcxRgo4DY&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&index=40
+
+...
+
+Current: 4:23
+

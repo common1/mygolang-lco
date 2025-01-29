@@ -33,7 +33,16 @@ func (c *Course) IsEmpty() bool {
 }
 
 func main() {
+	fmt.Println("API - LearnCodeOnline.in")
+	r := mux.NewRouter()
 
+	// seeding
+	courses = append(courses, Course{
+		CourseId:    "2",
+		CourseName:  "ReacJS",
+		CoursePrice: 299,
+		Author:      &Author{Fullname: "Hitesh Choudhary", Website: "lco.dev"},
+	})
 }
 
 // controllers - file
