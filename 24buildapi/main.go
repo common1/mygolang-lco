@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"log"
 	"math/rand"
 	"net/http"
 	"strconv"
@@ -41,8 +42,29 @@ func main() {
 		CourseId:    "2",
 		CourseName:  "ReacJS",
 		CoursePrice: 299,
-		Author:      &Author{Fullname: "Hitesh Choudhary", Website: "lco.dev"},
+		Author: &Author{
+			Fullname: "Hitesh Choudhary", Website: "lco.dev",
+		},
 	})
+	courses = append(courses, Course{
+		CourseId:    "4",
+		CourseName:  "MERN Stack",
+		CoursePrice: 199,
+		Author: &Author{
+			Fullname: "Hitesh Choudhary", Website: "go.dev",
+		},
+	})
+
+	// routing
+	r.HandleFunc("/", serveHome).Methods("GET")
+	r.HandleFunc("/courses", getAllCourses).Methods("GET")
+	r.HandleFunc("/course/{id}", getOneCourse).Methods("GET")
+	r.HandleFunc("/course", createOneCourse).Methods("POST")
+	r.HandleFunc("/course/{id}", updateOneCourse).Methods("PUT")
+	r.HandleFunc("/course/{id}", deleteOneCourse).Methods("DELETE")
+
+	// listen to a port
+	log.Fatal(http.ListenAndServe(":4000", r))
 }
 
 // controllers - file
